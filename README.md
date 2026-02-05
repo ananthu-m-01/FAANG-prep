@@ -6,6 +6,6 @@ A personal repository to track my LeetCode problem-solving journey as I prepare 
 
 ## 📋 Problem Tracker
 
-| # | Problem Name | LeetCode Link | Code | Explanation |
+| # | Problem Name | Explanation |
 |---|--------------|---------------|------|-------------|
-| 1 | Contains Duplicate | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://leetcode.com/submissions/detail/1908731072/) | [Notes](day-001/ContainsDuplicate.md) |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Notes](day-001/ContainsDuplicate.md) |
