@@ -9,3 +9,4 @@ A personal repository to track my LeetCode problem-solving journey as I prepare 
 | # | Problem Name | Explanation |
 |---|--------------|-------------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Notes](day-001/ContainsDuplicate.md) |
+| 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Notes](day-002/RemoveDuplicatesFromSortedArray.md) |
